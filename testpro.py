@@ -1,3 +1,3 @@
 testpro
-print('hello')
+print('hello, this is a test')
 end
