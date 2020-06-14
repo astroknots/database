@@ -1,0 +1,2 @@
+ id    | ra        | dec       | faper_f160w | eaper_f160w | faper_f140w | eaper_f140w | f_f160w     | e_f160w  | w_f160w  | star_flag | a_image | b_image | class_star | flux_radius | fwhm_image | flags | contam_flag | use_phot | Separation          |
+

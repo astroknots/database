@@ -1,0 +1,10 @@
+ NUMBER                 Running object number
+ ALPHA_J2000            Right ascension of barycenter (J2000)                      [deg]
+ DELTA_J2000            Declination of barycenter (J2000)                          [deg]
+ FLUX_APER              Flux vector within fixed circular aperture(s)              [count]
+ FLUXERR_APER           RMS error vector for aperture flux(es)                     [count]
+ FWHM_IMAGE             FWHM assuming a gaussian core                              [pixel]
+ FLAGS                  Extraction flags
+ CLASS_STAR             S/G classifier output
+ FLUX_RADIUS            Fraction-of-light radii                                    [pixel]
+
