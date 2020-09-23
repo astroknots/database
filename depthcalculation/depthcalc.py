@@ -84,6 +84,7 @@ def rmscalc(fits_sci,fits_mask,fits_seg,apertures,pixscale=0.1):
     ####### select 'valid' points that are not parts of objects or off-image
 	validpts=np.where((segdata<1) & (maskdata==1))
 	scivalid=scidata[validpts]
+
     
     #####actual calculation
 	rmss=np.std(scivalid)
